@@ -1,13 +1,13 @@
-# RebornV - Roleplay Server 🌆
+# San Andreass Stories - Roleplay Server 🌆
 
-Welcome to **RebornV**, a **FiveM** server dedicated to creating an immersive, respectful, and coherent roleplay experience.
+Welcome to **San Andreass Stories**, a **FiveM** server dedicated to creating an immersive, respectful, and coherent roleplay experience.
 Dive into the streets of **Los Santos**, where your story awaits.
 
 ---
 
 ## 🗝️ Server Vision
 
-At **RebornV**, we strive to build an environment where every player can fully immerse themselves in their character and
+At **San Andreass Stories**, we strive to build an environment where every player can fully immerse themselves in their character and
 craft unique stories. Here’s what defines our roleplay experience:
 
 ### 🎭 In-Game Roleplay
@@ -33,7 +33,7 @@ craft unique stories. Here’s what defines our roleplay experience:
 ## 🗂️ Development Structure
 
 We leverage **GitHub** to collaborate efficiently, manage issues, and streamline the deployment of new features. This
-repository contains all the resources, scripts, and configurations necessary to keep **RebornV** running smoothly.
+repository contains all the resources, scripts, and configurations necessary to keep **San Andreass Stories** running smoothly.
 
 ### 🚀 Technologies
 
@@ -45,9 +45,9 @@ repository contains all the resources, scripts, and configurations necessary to 
 
 ---
 
-## 🚩 How to Join RebornV?
+## 🚩 How to Join San Andreass Stories?
 
-We’re excited to welcome new players into the **RebornV** community! Here’s how you can get started:
+We’re excited to welcome new players into the **San Andreass Stories** community! Here’s how you can get started:
 
 ### 🛠️ Prerequisites
 
@@ -58,14 +58,14 @@ We’re excited to welcome new players into the **RebornV** community! Here’s 
 ### 🎮 Installation Steps
 
 1. Download and install the **FiveM client** from [FiveM.net](https://fivem.net/).
-2. Visit [website](https://rebornv.fr) to complete your whitelisting and get server access.
-3. Launch FiveM, search for "RebornV" in the server list, and join the adventure!
+2. Visit [website](https://SanAndreassStories.fr) to complete your whitelisting and get server access.
+3. Launch FiveM, search for "San Andreass Stories" in the server list, and join the adventure!
 
 ---
 
 ## 🔄 Contribute to the Project
 
-We’re constantly looking for talented developers to help enhance **RebornV**! Whether you’re into scripting, map design, or
+We’re constantly looking for talented developers to help enhance **San Andreass Stories**! Whether you’re into scripting, map design, or
 just bringing fresh ideas to the table, **we welcome your contributions**.
 
 ### 🤝 How to Contribute?
@@ -94,4 +94,4 @@ and the server's staff.
 
 🌟 Let’s embark on this exciting journey together, weaving the final chapters of GTA V into the anticipation of **GTA VI
 RP**.
-Thank you for being a part of **RebornV**!
+Thank you for being a part of **San Andreass Stories**!
